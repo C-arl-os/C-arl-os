@@ -7,7 +7,7 @@
 - 👯 Looking to collaborate on: **backend projects**
 - 🎓 7th semester · Ingeniería en Sistemas · Facultad de Ingeniería · USAC
 - 📫 Reach me at: **sancircarlos113@gmail.com**
-- ⚡ Fun fact: **I run Ubuntu from an external SSD and enjoy debugging at 2am**
+- ⚡ Fun fact: **I run Ubuntu from an external SSD**
 
 <br>
 
