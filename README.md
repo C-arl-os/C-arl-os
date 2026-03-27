@@ -1,19 +1,31 @@
 <h1 align="center">Hi 👋, I'm Carlos <img height="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
 <h3 align="center">Systems Engineering student @ USAC Guatemala</h3>
+
 <br>
+
 - 🌱 Learning: **Linux, Docker, JavaScript, Oracle DB & Computer Networks**
 - 👯 Looking to collaborate on: **backend projects**
 - 🎓 7th semester · Ingeniería en Sistemas · Facultad de Ingeniería · USAC
 - 📫 Reach me at: **sancircarlos113@gmail.com**
 - ⚡ Fun fact: **I run Ubuntu from an external SSD**
+
 <br>
+
 <h3 align="center">Connect with me:</h3>
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-emanuel-sancir-reyes-35b336268/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancircarlos113@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/C-arl-os)
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/carlos-emanuel-sancir-reyes-35b336268/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sancircarlos113@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/C-arl-os">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 <br>
+
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -44,12 +56,16 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
 <br>
+
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=C-arl-os&theme=react&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-arl-os&theme=react&layout=compact&cache_seconds=1800" />
 </p>
+
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=C-arl-os&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
