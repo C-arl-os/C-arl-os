@@ -59,7 +59,7 @@
 
 <br>
 
-html<p align="center">
+<p align="center">
   <img height="150" src="https://readme-stats-nu-five.vercel.app/api?username=C-arl-os&theme=react&show_icons=true&count_private=true" />
   <img height="150" src="https://readme-stats-nu-five.vercel.app/api/top-langs/?username=C-arl-os&theme=react&layout=compact" />
 </p>
