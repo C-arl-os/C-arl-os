@@ -61,7 +61,7 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C-arl-os&show_icons=true&theme=react&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-arl-os&theme=react&layout=compact" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-arl-os&theme=react&layout=compact" />
 </p>
 ---
 
