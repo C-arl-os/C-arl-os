@@ -60,9 +60,10 @@
 <br>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C-arl-os&show_icons=true&theme=react&count_private=true" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-arl-os&theme=react&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C-arl-os&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Carlos' GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-arl-os&theme=react&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 <p align="center">
